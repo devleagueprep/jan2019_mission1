@@ -4,7 +4,7 @@ This repo will self-destruct in five seconds. Good luck!*/
 
 
 /*Mission 1: 
-Team Leader:
+Team Leader: Zandra
 
 @param Datatype: String
 @return Datatype: String
@@ -14,7 +14,7 @@ Console.log to see your result.*/
 
  
  /*Mission 2: 
- Team Leader:
+ Team Leader: Asia
  
  @param Datatype: String
  @param Datatype: Number
@@ -26,7 +26,7 @@ Console.log to see your result.*/
  
  
  /*Mission 3: 
- Team Leader:
+ Team Leader: Dom
  
  @param Datatype: Array
  @return Datatype: Array
@@ -36,7 +36,7 @@ Console.log to see your result.*/
  
 
  /*Mission 4: 
- Team Leader: 
+ Team Leader: Kevin
  
  @param Datatype: Array
  @return Datatype: Array
@@ -46,7 +46,7 @@ Console.log to see your result.*/
  
  
  /*Mission 5:
- Team Leader: 
+ Team Leader: Aquiles
  
  @param Datatype: Array
  @param Datatype: String
@@ -57,7 +57,7 @@ Console.log to see your result.*/
  
  
  /*Mission 6:
- Team Leader:
+ Team Leader: Luke
  
  @param Datatype: Number
  @return Datatype: Number
@@ -67,7 +67,7 @@ Console.log to see your result.*/
  
  
  /*Mission 7:
- Team Leader:
+ Team Leader: Lewis
  
  @param Datatype: Number
  @return Datatype: Number
@@ -77,7 +77,7 @@ Console.log to see your result.*/
  
 
  /*Mission 8:
- Team Leader: 
+ Team Leader: Rina
  
  @param Datatype: Number
  @return Datatype: String
@@ -92,7 +92,7 @@ Console.log to see your result.*/
  
  
  /*Mission 9:
- Team Member: 
+ Team Member: Brett
  
  @param Datatype: Array
  @return Datatype: Array
@@ -103,7 +103,7 @@ Console.log to see your result.*/
 
 
  /*Mission 10:
- Team Member: 
+ Team Member: Brenda
  
  @param Datatype: Object
  @return Datatype: Object
@@ -116,7 +116,7 @@ Console.log to see your result.*/
 
 
  /*Mission 11:
- Team Member: 
+ Team Member: Dan
  
  @param Datatype: arr
  @return Datatype: arr
