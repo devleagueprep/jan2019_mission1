@@ -126,11 +126,14 @@ Console.log to see your result.*/
  Console.log your result*/
 
 newArr = []
+reverseArray=["Pikachu", "Mewtwo", "Charmander"]
 
 function rewind(arr){
     for(var i = arr.length - 1; i>=0; i--){
+     newArr.push(arr[i])
     }
-    return newArr = arr
+    return newArr
 }
 
-console.log(rewind(newArr))
+console.log(rewind(reverseArray))
+
