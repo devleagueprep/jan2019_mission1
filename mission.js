@@ -114,6 +114,20 @@ Console.log to see your result.*/
 
  Console.log your result*/
 
+ var cat = {
+     name: 'meowth',
+     colors: ['brown', 'beige'],
+     likesWater: false,
+ }
+
+ function loopy(obj){
+    for (var i in obj) {
+        console.log(i, ':', obj[i]);
+    }
+ }
+
+ loopy(cat);
+
 
  /*Mission 11:
  Team Member: Dan
