@@ -65,8 +65,21 @@ console.log(doubleUp(nums));
  
  Create a function named evens that takes in a parameter arr and will sum up only the even indexed numbers in the array and returns a new array.
  Console.log your result.*/
- 
- 
+ evenArray = [];
+ sumArray = 0;
+
+ function evens(arr){
+     for(var i = 0; i < 101; i++){
+         if(i%2 === 0){
+        arr.push(i)
+        sumArray += i;
+         }
+     }
+ }
+evens(evenArray)
+console.log(evenArray) 
+console.log(sumArray)
+console.log('hi')
  /*Mission 5:
  Team Leader: Aquiles
  
