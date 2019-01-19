@@ -125,3 +125,12 @@ Console.log to see your result.*/
 
  Console.log your result*/
 
+newArr = []
+
+function rewind(arr){
+    for(var i = arr.length - 1; i>=0; i--){
+    }
+    return newArr = arr
+}
+
+console.log(rewind(newArr))
