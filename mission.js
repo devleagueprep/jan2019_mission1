@@ -142,3 +142,15 @@ console.log("$ to yen ($100):", yenConverter(100,109.78));
 
  Console.log your result*/
 
+newArr = []
+reverseArray=["Pikachu", "Mewtwo", "Charmander"]
+
+function rewind(arr){
+    for(var i = arr.length - 1; i>=0; i--){
+     newArr.push(arr[i])
+    }
+    return newArr
+}
+
+console.log(rewind(reverseArray))
+
