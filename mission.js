@@ -55,10 +55,9 @@ Console.log to see your result.*/
  Create a function named plusOne that takes two parameters arr and str and will add a new string element into an array and will return the array.
  Console.log your result*/
  
-
+ var arr1 = ['one', 'two'];
+ var str1 = 'three';
  function plusOne(arr,str){
-    var arr1 = ['one', 'two'];
-    var str1 = 'three';
     return arr1.push(str1)
  }
 console.log(plusOne(arr1,str1));
