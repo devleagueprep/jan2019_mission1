@@ -57,7 +57,7 @@ Console.log to see your result.*/
 evens(evenArray)
 console.log(evenArray) 
 console.log(sumArray)
-
+console.log('hi')
  /*Mission 5:
  Team Leader: Aquiles
  
