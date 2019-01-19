@@ -89,6 +89,17 @@ Console.log to see your result.*/
  More than 10 =  "Gina's Kalbi and Meat Jun Combo"
  
  Console.log your result*/
+
+ function whatToEat(budget){
+     if(budget < 5){
+         return 'Char Hung Sut Manapua'
+     }else if(budget < 10){
+         return 'Panda Express Orange Chicken'
+     }else if(budget > 10){
+         return "Gina's Kalbi and Meat Jun Combo"
+     }
+ }
+console.log(whatToEat(8));
  
  
  /*Mission 9:
