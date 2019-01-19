@@ -148,6 +148,13 @@ console.log(whatToEat(8));
 
  Console.log your result*/
 
+ var array = [1,2,3,4,5];
+ function countUp(arr){
+     for (i=0;i<arr.length;i++){
+         arr[i]++
+     } return arr
+ }
+ console.log(countUp(array));
 
  /*Mission 10:
  Team Member: Brenda
