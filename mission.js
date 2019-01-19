@@ -81,7 +81,6 @@ Console.log to see your result.*/
  }
 console.log(kmConverter(10));
 
-
  /*Mission 8:
  Team Leader: Rina
  
