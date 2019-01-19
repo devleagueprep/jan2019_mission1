@@ -41,7 +41,21 @@ console.log(weatherReport('cloudy with a chance of meatballs'));
  
  Create a function named doubleUp that takes in a parameter arr and will double the value of each number in the array and returns the array.
  Console.log your result.*/
- 
+ var nums = [2, 4];
+ var doubled = [];
+ function doubleUp(arr) {
+    for(i=0; i<arr.length; i++) {
+        var dub = arr[i];
+        var dubb = dub * 2;
+        doubled.push(dubb);
+        
+    }
+return doubled;
+
+ }
+console.log(doubleUp(nums));
+
+
 
  /*Mission 4: 
  Team Leader: Kevin
