@@ -28,6 +28,10 @@ console.log(weatherReport('cloudy with a chance of meatballs'));
  Create a function named happyBday that takes two parameters name and age and returns the following: "Happy Birthday name! You look maaahvelous at age!" Where your input will replace the name and age parameters.
  Console log to see your result.*/
  
+ function happyBday(name, age){
+     return ["Happy birthday " + name + "! You look maaahvelous at " + age + "!"]
+ }
+ console.log(happyBday('Felicia', 87))
  
  /*Mission 3: 
  Team Leader: Dom
